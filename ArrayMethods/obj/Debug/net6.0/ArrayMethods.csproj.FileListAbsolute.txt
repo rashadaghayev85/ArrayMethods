@@ -1,0 +1,14 @@
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\ArrayMethods\ArrayMethods\obj\Debug\net6.0\ArrayMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\ArrayMethods\ArrayMethods\obj\Debug\net6.0\ArrayMethods.AssemblyInfoInputs.cache
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\ArrayMethods\ArrayMethods\obj\Debug\net6.0\ArrayMethods.AssemblyInfo.cs
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\ArrayMethods\ArrayMethods\obj\Debug\net6.0\ArrayMethods.csproj.CoreCompileInputs.cache
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\ArrayMethods\ArrayMethods\bin\Debug\net6.0\ArrayMethods.exe
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\ArrayMethods\ArrayMethods\bin\Debug\net6.0\ArrayMethods.deps.json
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\ArrayMethods\ArrayMethods\bin\Debug\net6.0\ArrayMethods.runtimeconfig.json
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\ArrayMethods\ArrayMethods\bin\Debug\net6.0\ArrayMethods.dll
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\ArrayMethods\ArrayMethods\bin\Debug\net6.0\ArrayMethods.pdb
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\ArrayMethods\ArrayMethods\obj\Debug\net6.0\ArrayMethods.dll
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\ArrayMethods\ArrayMethods\obj\Debug\net6.0\refint\ArrayMethods.dll
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\ArrayMethods\ArrayMethods\obj\Debug\net6.0\ArrayMethods.pdb
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\ArrayMethods\ArrayMethods\obj\Debug\net6.0\ArrayMethods.genruntimeconfig.cache
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\ArrayMethods\ArrayMethods\obj\Debug\net6.0\ref\ArrayMethods.dll
